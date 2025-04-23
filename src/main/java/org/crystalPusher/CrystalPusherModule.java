@@ -161,7 +161,7 @@ public class CrystalPusherModule extends ToggleableModule {
 		} else {
 			if (mc.gameMode == null) return;
 			if (ticksNotExploded < this.explodingDelay.getValue()) {
-				ChatUtils.print("CRYSTAL PUSHER: Crystal not exploded");
+				//ChatUtils.print("CRYSTAL PUSHER: Crystal not exploded");
 				ticksNotExploded++;
 				return;
 			}
