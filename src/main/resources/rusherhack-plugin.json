@@ -1,0 +1,13 @@
+{
+  "Plugin-Class": "org.crystalPusher.CrystalPusher",
+  "Name": "${project.plugin_name}",
+  "Version": "${project.plugin_version}",
+  "Description": "Pushes Crystals Into Faces",
+  "URL": "",
+  "Authors": [
+    "kybe236"
+  ],
+  "Minecraft-Versions": [
+    "${project.minecraft_version}"
+  ]
+}
